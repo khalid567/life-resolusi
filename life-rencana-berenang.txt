@@ -1,3 +1,5 @@
 RENCANA BERENANG
 - gaya dada
+  * dada kanan
+  * dada kiri
 - gaya kupu2
