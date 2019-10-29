@@ -3,3 +3,4 @@ RENCANA BERENANG
   * dada kanan
   * dada kiri
 - gaya kupu2
+- gaya bebas
